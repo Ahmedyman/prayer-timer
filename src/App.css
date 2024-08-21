@@ -1,0 +1,57 @@
+html{
+    direction: rtl;
+    
+}
+
+.MuiOutlinedInput-notchedOutline{
+    border-color: white ;
+}
+.MuiOutlinedInput-notchedOutline:focus-visible{
+    border-color: #16354e ;
+}
+/* .MuiMenuItem-root{
+    color: rgb(167, 18, 18);
+    background: #16354e;
+}
+ .MuiMenuItem-gutters{
+    color: rgb(36, 18, 18);
+    background: #16354e;
+}
+.Mui-selected{
+    background: #16354e;
+    color: rgb(255, 255, 255);
+} */
+ /* select li Menuitem{
+    color: rgb(26, 19, 19) ;
+    background: #16354e;
+}  */
+
+.MuiSvgIcon-root {
+    color: rgb(26, 19, 19) ;
+}
+/* li.MuiButtonBase-root .MuiMenuItem-root .MuiMenuItem-gutters .MuiMenuItem-root .MuiMenuItem-gutters .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root:hover{
+    color: black;
+    font-size: 20px;
+} */
+
+.selectItem{
+    background:rgb(255, 255, 255);
+    border:  black;
+     color: black ;
+     font-Size: 30px;
+     font-Weight:bold; 
+  }
+  .selectItem:hover{
+    background:rgb(25, 202, 247);
+    color: rgb(255, 255, 255);
+
+  }
+
+ .card-hover1:hover{
+    background:rgb(25, 202, 247);
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+    border-radius: 20px;
+
+ }
